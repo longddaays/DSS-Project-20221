@@ -1,0 +1,442 @@
+name,avgpoint,avg_price,num_reviews
+Sushi Garden,7.2,100000.0,67
+Cuốn N Roll Restaurant - Giảng Võ,7.1,254000.0,64
+Mì Gia Tiến Đạt,7.6,37500.0,18
+The Alley - Trà Sữa Đài Loan - Khúc Thừa Dụ,6.5,55500.0,13
+Hải Sản Hương Lan - Nghĩa Dũng,6.5,127500.0,107
+Nét Huế - Nguyễn Văn Huyên,7.3,100000.0,23
+Pane e Vino - Ẩm Thực Ý - Nguyễn Khắc Cần,7.8,162500.0,39
+Kim Oanh - Caramen & Chè Thập Cẩm,7.1,17500.0,25
+Gà 36 - Hà Đông,6.2,135000.0,22
+Bún Ốc Cô Béo,6.8,42500.0,41
+Minh Food - Nem Chua Rán & Bánh Gà - Shop Online,9.4,35000.0,13
+Meo's House Coffee - Chùa Láng,6.9,40000.0,16
+Master Tea 美茶 - Đội Cấn,7.9,38000.0,18
+Topaz Beer Club - Almaz Vinhomes Riverside,8.4,300000.0,12
+Xôi Sáng - Hàng Hòm,7.7,7500.0,20
+Izakaya Yancha - Ẩm Thực Nhật Bản - Triệu Việt Vương,7.9,160000.0,56
+Tiệm Trà Linh Kòy - Thượng Đình,9.8,40000.0,80
+Duy Tùng - Mì Trộn Indomie - Đào Tấn,7.9,30000.0,25
+Pop Quán - Chân Gà & Cánh Gà Chiên Mắm - Tây Sơn,6.9,65000.0,24
+Bánh Tráng Trộn Cô Toàn,6.7,22500.0,280
+Hotdog Bamy - Quán Thánh,7.1,35000.0,14
+Chè Khúc Bạch & Ăn Vặt 71 - Khâm Thiên,9.2,95000.0,31
+Chè Nam Đồng - Khu Tập Thể Thành Công,7.2,17500.0,23
+Bà Khanh - Trứng Gà Đánh Kem,6.9,20000.0,43
+Cô Lê - Nem Nướng Nha Trang - Ao Sen,7.2,29000.0,26
+Trà Sữa Feeling Tea - Chùa Láng,7.1,25500.0,101
+The Olympia Cafe,7.8,37500.0,12
+Quán Mộc - Bò Tơ - KĐT Nam Cường,7.3,197500.0,12
+Chè Juco,7.7,15000.0,12
+Gà Rán KFC - Hoàng Quốc Việt,6.5,80000.0,35
+Bún Bò Huế Thu Sương - Khuất Duy Tiến,6.5,45000.0,25
+Phát Ký Mì Gia,7.1,47500.0,43
+Super Tiger - Sữa Tươi Trân Châu Đường Đen - An Hưng,7.6,40000.0,19
+Út Thúy - Gỏi Cuốn Sài Gòn,7.5,37500.0,20
+Loving Hut - Cơm Chay - Chùa Láng,6.8,53500.0,81
+Pizza Xtrum - Nguyễn Đức Cảnh,6.1,206000.0,14
+Lotteria - Lotte Center,6.9,75000.0,59
+Chè Mỏ Khoét - Ăn Vặt Các Loại,7.0,15000.0,23
+Bánh Cuốn Cao Bằng - Nguyễn Văn Lộc,6.0,27500.0,11
+GoGi House - Nướng Hàn Quốc - Royal City,8.1,425000.0,175
+Isushi Nguyễn Chí Thanh - Nhà Hàng Buffet Nhật Bản,8.0,350000.0,184
+Sumo BBQ - Nhà Hàng Thịt Nướng Nhật Bản - Tô Hiến Thành,7.6,375000.0,107
+Sumo BBQ - Nhà Hàng Thịt Nướng Nhật Bản - Savico Mega Mall,8.5,348500.0,38
+Ngọc Thạch Quán - Sữa Chua & Caramen - Lương Định Của,7.6,20000.0,409
+"Jinro BBQ - Cơm, Lẩu & Nướng - Nguyễn Chí Thanh",6.8,215000.0,19
+Hẻm Thượng Hải - Chinese BBQ & Dimsum - Nguyễn Thị Định,7.0,155000.0,16
+Lạ Quán - Lẩu Thái Hải Sản,6.8,24000.0,48
+Xofa Café & Bistro - Tống Duy Tân,7.7,40000.0,239
+Dồi Sụn Nướng & Ăn Vặt - Shop Online,7.3,58500.0,14
+Gà Rán Popeyes - Mac Plaza,6.8,115000.0,24
+Cha Go Tea & Caf'e - Nguyễn Trãi,7.3,65000.0,55
+Xôi Bà Sòn,6.0,22500.0,11
+Bít Tết Hà Cúc - Hòe Nhai,7.3,95000.0,18
+Pizza Pompeii's - Pizza Nướng Củi,6.9,272500.0,10
+Cubin - Cơm Tấm Sườn Nướng & Bún Bò Huế,6.0,40000.0,15
+Lẩu Nướng Đường Tàu,8.1,220000.0,23
+Thủy Bụng - Nướng Bình Dân,6.7,75000.0,12
+Phở Thìn - Đinh Tiên Hoàng,6.2,47500.0,47
+Bún Thang Bà Đức - 48 Cầu Gỗ,6.3,42500.0,89
+Bún Chả Que Tre Bình Chung - Trần Xuân Soạn,6.5,52500.0,44
+Bánh Cuốn Cao Bằng - Thể Giao,7.3,40000.0,12
+Lẩu Ếch Lò Đúc,6.3,160000.0,28
+Tiệm Bánh Emoji - Bông Lan Trứng Muối & Đồ Uống Online - Thái Hà,8.2,209000.0,75
+Cô Tám - Cơm Rang & Cơm Tấm - 126 Hồng Mai,5.6,34500.0,27
+Phúc Long Hàng Điếu,5.7,50000.0,57
+Bún Ngan Chặt - Hàng Cân,7.6,37500.0,28
+Vịt 29 - Tô Hiệu - Cơm Xôi Phở Cháo,6.5,175000.0,38
+Phở Bò Gốc Gạo - Ngọc Hà,6.9,35000.0,18
+Paris Baguette - West Lake,7.2,35000.0,15
+TOUS les JOURS - Keangnam Landmark,6.9,282500.0,12
+Tiệm Gà Rán Số 19 - Hào Nam,7.5,125000.0,197
+ThaiExpress - Vincom Center Nguyễn Chí Thanh,6.4,50000.0,40
+Bún Mọc - Hàng Lược,7.4,37500.0,22
+Pepperonis Pizza - Hàng Trống,7.5,125000.0,68
+Vịt 29 - Thái Hà - Cơm Xôi Phở Cháo,7.1,160000.0,127
+50 Dessert - Dừa Dầm & Kem Bơ,5.8,20000.0,34
+MIN - Lẩu Sạch & Chân Cánh Gà,7.8,125000.0,24
+Lẩu Nấm Ashima - Huỳnh Thúc Kháng,9.2,215000.0,16
+Stirling Steaks Vietnam,7.9,200000.0,17
+Sườn Mười - Sườn Nướng BBQ,7.5,199000.0,137
+Lẩu Phan - Buffet Bò Úc - Láng Hạ,7.3,125000.0,12
+Góc Đà Lạt - Lẩu Gà Lá É - Mễ Trì Hạ,9.2,250000.0,12
+Bánh Gối Lê Đại Hành,7.0,37500.0,64
+Bánh Rán Bà Huyền,7.3,27000.0,26
+Bánh Rán Hoàn - Thịt Xiên & Bánh Gà,7.6,15500.0,71
+Pepperonis Pizza - Trần Phú,7.0,125000.0,66
+Bánh Mì Hương Lan,7.3,32500.0,28
+Pizza 4P's - Pizza Kiểu Nhật - Ngõ Bảo Khánh,8.7,250000.0,13
+Grey Tea - Lê Ngọc Hân,8.3,45500.0,26
+Big Ben Cafe - Tuệ Tĩnh,6.8,40000.0,15
+Bánh Rán Cổ Truyền 52 - Hàng Chiếu,7.9,55000.0,20
+Royaltea - Lương Yên,7.8,45000.0,83
+Gà Rán KFC - Tây Sơn,6.7,59000.0,85
+Mì Gia Phúc Kiến,6.9,35000.0,19
+Lê Thịnh - Xôi Chè Phố Cổ,7.2,24000.0,16
+BBQ Cơm Sườn Phố Cổ - Trần Đại Nghĩa,4.5,60000.0,11
+King BBQ - Vua Nướng Hàn Quốc - Hồ Gươm Plaza,6.9,264000.0,42
+BBQ Garden - Phố Huế,7.1,350000.0,42
+Ding Tea - Bạch Mai,6.4,42500.0,10
+Cowboy Jack's Saloon American Dining - Mipec Tower,7.5,150000.0,212
+Pizza Hut - Thái Thịnh,6.5,175000.0,17
+Tiệm Bánh Nhật Bản Laetitia - Trà Sữa Light Bulb - Nguyễn Hữu Huân,7.5,60000.0,13
+Hoa Quả Dầm Chúc Nguyên,8.6,35000.0,10
+Trà Sữa Tocotoco - AEON Mall Long Biên,5.7,42500.0,20
+Bảo Minh - Đặc Sản Bánh Cốm Hàng Than,7.2,275000.0,16
+Master Tea 美茶 - Lò Đúc,7.0,38000.0,221
+Gà Rán Kuccu - Đỗ Quang,6.8,107500.0,77
+Cơm Cháy Chà Bông Tý Chuột - Shop Online - Nguyễn Cao,10.0,82500.0,13
+Ăn Vặt Tôn Thất Thiệp - Ốc Luộc & Chân Gà Chiên Giòn,6.8,16500.0,22
+Cô Ngà - Bánh Mì Nem Khoai,8.0,25000.0,19
+Nam An Quán - Ẩm Thực Huế,7.2,32000.0,36
+Gà rán và Mì Ý - Jollibee - Tô Hiệu,6.5,29500.0,77
+Rộp Rộp - Cơm Cháy & Khô Gà Lá Chanh Online,7.9,100000.0,32
+Phở Gà Đặc Biệt - Hàng Điếu,7.4,48000.0,22
+Lẩu Nguyệt - Lẩu Riêu Cua Sườn Sụn,6.7,150000.0,71
+Mì Hàn Quốc - Láng Hạ,7.4,160000.0,36
+Bún Chả - Mai Hắc Đế,6.9,45000.0,12
+Mì Tay To - Bà Triệu,7.3,215000.0,10
+YiHeTang - Đệ Nhất Trà Sữa Nướng - Mỹ Đình,8.3,55000.0,24
+Lẩu Ba Lý - Hong Kong Cuisine - AEON Mall Long Biên,5.7,200000.0,21
+Sweet Cherry - Cafe & Restaurant - Vincom Long Biên,7.2,267500.0,10
+Bánh Mì Bít Tết - Đền Lừ 2,6.9,35000.0,10
+Chè Sầu Liên - 79 Trần Quốc Hoàn,6.3,22500.0,37
+Tanka Quán - Chân Gà & Cánh Gà Nướng - Đê La Thành,8.0,30000.0,30
+Trà Sữa Tiger Sugar Delivery - Đường Nâu Sữa Đài Loan - Láng Hạ,6.8,47500.0,20
+Bánh Ngọt Bùi Công Trung - Nguyễn Trung Trực,7.4,75000.0,13
+"Quẩy Nóng, Bánh Gối - Nguyễn Lương Bằng",7.3,32500.0,49
+Lan Béo - Bún Miến Ngan & Cháo Sườn Sụn,7.0,40000.0,17
+Bún Ốc Bà Thoa - Bún Ốc Gia Truyền - 19 Kim Mã Thượng,7.1,35000.0,33
+"Nem Lụi, Thịt Heo & Chân Gà - Hoàng Đạo Thúy",6.4,47500.0,15
+Nem Lụi Huế - Ăn Là Like - Thụy Khuê,6.2,40000.0,109
+Bún Ốc Thúy,6.2,42500.0,20
+Gà Rán KFC - Nguyễn Trường Tộ,7.0,80000.0,14
+Lotteria - Hàng Than,6.5,53500.0,26
+Bún Ốc Sườn Cô Sáu,6.3,32500.0,33
+Bánh Bao - Quán Thánh,6.6,30000.0,31
+Kimbap - Little Korean Homemade,7.7,120000.0,18
+Nhà Hàng Phương Nam - Món Ngon Miền Nam - Chùa Láng,6.8,175000.0,31
+Linh - Mì Vằn Thắn & Bún Thang,7.6,32500.0,23
+Lotteria - Kim Mã,7.1,53500.0,80
+Cô Liên - Ăn Vặt Việt Hàn,7.1,30000.0,50
+King BBQ - Vua Nướng Hàn Quốc - The Garden,6.3,250000.0,12
+Chè Xoan - Chùa Láng,7.0,27500.0,33
+Don Chicken - Chicken & Pub - Royal City,7.2,275000.0,69
+Xôi Cô Kim - Lò Đúc,6.9,22500.0,37
+Trà Sữa Tocotoco - Cầu Giấy,5.2,36000.0,76
+Paris Gâteaux - Bánh Ngọt & Trà Sữa - Giảng Võ,7.3,230000.0,179
+Khun Thái - Món Ăn Đường Phố Thái Lan,7.4,140000.0,59
+Bún Chả Que Tre - Giảng Võ,7.9,40000.0,12
+Pincho - Tapas Kitchen & Drinks,8.9,300000.0,21
+Chingu Coffee,8.2,35000.0,26
+Bếp Kay - Cơm Văn Phòng Online - Cự Lộc,1.6,30000.0,346
+Phở Cuốn Hương Mai - TT Giảng Võ,7.2,75000.0,69
+Aha Food - Đồ Âu Văn Phòng - Nguyễn Chí Thanh,7.3,60000.0,24
+Sữa Chua Trân Châu Hạ Long - Ô Chợ Dừa,6.4,27500.0,12
+Cơm Ngon Yến Vy - Cơm Văn Phòng,9.8,60000.0,160
+Trà Sữa Feeling Tea - Minh Khai,7.0,37500.0,35
+McDonald's - Thái Hà,7.0,125000.0,24
+Bảo Hằng - Bít Tết - 5 Hoè Nhai,7.3,70000.0,36
+Nan N Kabab - Xuân Diệu,8.0,200000.0,35
+"Quán Thương Béo - Bánh Bèo, Cháo Canh, Cháo Lươn Nghệ An Hà Tĩnh",8.0,35000.0,15
+Pizza One,5.8,100000.0,16
+Trang Bé - Ăn Vặt Online - Khương Trung,3.3,107500.0,17
+Highlands Coffee - Pullman,7.6,37000.0,103
+The Coffee House - Bà Triệu,7.6,90000.0,175
+Maru Korean - Tiệm Đồ Ăn Hàn Quốc & Trà Sữa,6.7,37500.0,133
+Lươn Quán - Hoàng Ngọc Phách,7.2,96000.0,32
+Đức Food - Mì Trộn Indomie - 165 Chùa Bộc,7.6,35000.0,14
+Quà Vặt - Shop Online - Hoàng Ngọc Phách,6.9,65000.0,39
+Trà Sữa Tocotoco - Royal City,7.0,52500.0,59
+Nắng Juice - Nước Ép & Trà Trái Cây,9.8,27500.0,30
+Bếp Nhà - Xôi Chim Tim Trứng Cháy Tỏi Online,6.1,75000.0,13
+Puku Cafe & Bar,6.8,135000.0,78
+Kinh Đô Cafe - Hàng Bông,7.2,42500.0,10
+The Hanoi Social Club - 6 Ngõ Hội Vũ,7.4,160000.0,83
+Thái Deli - Xuýt Xoa Vị Thái - Hàm Nghi,7.2,125000.0,10
+Trà Sữa Tocotoco - Khâm Thiên,6.9,37500.0,81
+Bánh Canh Cố Đô,4.8,40000.0,25
+Bún Đậu Mẹt & Lòng Trần Cháo - Chùa Láng,5.3,36000.0,19
+"Cô Yến - Nem Lụi, Nem Nướng & Bò Lá Lốt - Hoàng Ngân",8.1,18500.0,13
+Lẩu Đức Trọc - Dịch Vọng Hậu,4.2,797500.0,12
+Bánh Mì - Tào Phớ Vợ Ong Vàng - Bạch Mai,5.2,25000.0,13
+Ốc Luộc - Quốc Tử Giám,7.7,55000.0,12
+Cây Đa Cafe - Hàng Nón,7.4,32000.0,108
+Bếp Của Hưng - Đồ Ăn Vặt,7.3,150000.0,14
+Bánh Rán & Chả Cá - Vĩnh Hồ,7.2,52500.0,12
+Chè Bobochacha - Cửa Bắc,6.1,20000.0,73
+Hàu Nướng & Hải Sản Ông Câu,9.5,55000.0,34
+Buffet Sapasa - Nguyễn Huy Tưởng,7.4,215000.0,13
+The Pizza Company - Xuân Diệu,6.9,135000.0,24
+Lotteria - Cầu Giấy,7.0,53500.0,105
+Su's House - Bánh Su Kem Singapore - Hàng Cót,6.7,60000.0,29
+Bún Đậu Kẻ Mơ,6.6,35000.0,28
+DWOK - Ẩm Thực Singapore,7.8,161000.0,45
+Quán Nem - Nem Cua Biển & Bún Chả - Giảng Võ,6.1,112500.0,24
+Trà Sữa Gong Cha - 貢茶 - Hoàng Đạo Thúy,7.2,50000.0,129
+Bún Ngon - Triệu Việt Vương,6.4,37500.0,11
+Trà Sữa Feeling Tea - Ngọc Lâm,6.8,42000.0,16
+Xôi Hồng - Ngọc Lâm,7.2,37500.0,15
+Bún Riêu - Nguyễn Sơn,7.9,30000.0,12
+Dung - Bún Dọc Mùng,6.9,40000.0,13
+Chè 3 Miền - Ngọc Lâm,5.9,32500.0,17
+Trà Sữa Tocotoco - Tân Mai,6.6,42500.0,19
+GoGi House - Nướng Hàn Quốc - Trung Hòa,7.7,399500.0,85
+Le Monde Steak - Hoàng Cầu,7.4,150000.0,57
+Gạch Quán - Bánh Tráng Cuốn Thịt Heo,7.6,30000.0,103
+Tomato - Hải Sản Tươi Sống - Nguyễn Thị Định,6.9,107500.0,57
+"Hoa Đại Quán - Cơm Văn Phòng, Fastfood & Coffee",7.4,44000.0,94
+"Lutulata - Bún Bò Huế, Cơm Gà & Cơm Sườn",9.3,70000.0,24
+Yakimono - Nướng Nhật Bản - Trần Bình,5.6,149000.0,45
+Bún Cá Cầu Giấy,6.5,27500.0,14
+Cộng Cà Phê - Trần Huy Liệu,7.3,47500.0,31
+Bánh Xèo - Nghĩa Tân,6.3,35000.0,18
+Ốc Ghẹ Đường Thành,7.1,45500.0,10
+Trà Sữa Nướng Yi He Kao Nai - Trung Kiên,9.9,32500.0,20
+Cơm Gà Bà Nga,5.6,100000.0,14
+Mì Vằn Thắn Duy Anh,7.0,42500.0,59
+Kem Xôi Chè Thái Lan - Giảng Võ,6.7,22500.0,137
+"Genko Chip - Gà Rán, Bánh Gà & Xôi Gà - Đại Cồ Việt",6.7,162500.0,13
+Tun Tun - Bún Hải Sản Hoa Quả,8.1,40000.0,20
+Sushi Việt - Tô Hiệu,6.9,24000.0,108
+Hạnh - Ngan Dé,7.3,35000.0,68
+Mr.Eco Salad Healthy - Food & Drinks - Ngõ Huế,9.6,70000.0,95
+Hắt 2 Ô - Nem Nướng Nha Trang - Xuân Thủy,6.5,60000.0,57
+Lục Thuỷ Cafe & Lounge,7.3,300000.0,43
+"Al Fresco's - Pizza, Mỳ Ý, Sườn, Steak Bò Bít Tết - Royal City",7.3,175000.0,57
+6 Degrees Cafe - Rooftop,7.6,225000.0,182
+Cháo Sườn Hàng Bồ,7.7,15000.0,19
+MONO Coffee Lab - Hồ Xuân Hương,7.1,50000.0,10
+Bún Ốc Nguội - Ô Quan Chưởng,6.7,42500.0,14
+"Tiến Thiện - Mì Vằn Thắn, Hủ Tíu",6.6,35000.0,13
+Ốc Nóng - Lê Quý Đôn,7.0,22500.0,28
+Noble Moment - Cafe' Serendipity,7.4,60000.0,89
+Domino's Pizza - Giảng Võ,7.4,124000.0,227
+Coco Food - Bánh Ngọt Online - Trương Định,7.9,97500.0,32
+Lilium Dessert - Bánh Bông Lan & Trà Thái - Shop Online,7.6,105000.0,10
+Trà Sữa Shun Cha - Cửa Bắc,7.2,39000.0,31
+Miến Lươn - 9 Phủ Doãn,7.4,30000.0,14
+Phở Cuốn Hương Mai - 25 Ngũ Xã,7.2,37000.0,268
+Cơm Tấm Sài Gòn Út Thắng - Hoàng Cầu Mới,6.4,50000.0,10
+Trà Sữa Tocotoco - Đào Tấn,6.6,42500.0,26
+1975 - Cơm Tấm Sài Gòn,9.3,28000.0,44
+Burger King - Giảng Võ,6.3,60000.0,115
+Poke Hanoi - Healthy - Hàng Khay,9.1,170000.0,31
+Lotteria - Huỳnh Thúc Kháng,6.8,465000.0,75
+"Swanshi Kitchen - Bánh Ngọt, Sinh Tố & Nước Ép",7.1,100000.0,15
+Phở Xào - 32 Bát Đàn,6.9,58500.0,24
+DV Fruit - Sinh Tố & Nước Ép Trái Cây,8.9,40000.0,34
+Bún Bò Huế Nam Minh - Đội Cấn,8.9,40000.0,22
+Tình Linh - Bún Bò Huế,9.0,40000.0,13
+Kichi Kichi Lẩu Băng Chuyền - BigC Thăng Long,8.8,184500.0,109
+Minh Lan - Miến Lươn Số 1 Chân Cầm,6.9,35000.0,61
+Vịt 29 - Trung Hòa - Cơm Xôi Phở Cháo,6.3,175000.0,11
+Gia Hân - Bún Cá Cay,7.0,37500.0,17
+Hashiya - Ẩm Thực Nhật Bản,8.1,300000.0,15
+Fenghuang - Trần Kim Xuyến,6.5,225000.0,25
+Bánh Mì Minh Nhật - Bán Đảo Linh Đàm,4.9,40000.0,10
+Xôi Cô Sâm,8.5,12500.0,10
+Phở Bò Phú Xuân,7.7,37500.0,14
+Minh Châu - Cơm Tấm & Hủ Tiếu Nam Vang - Tuệ Tĩnh,6.7,40000.0,28
+Phan - Lẩu Các Món - Đào Duy Anh,6.8,150000.0,119
+Quang Đăng - Bánh Tráng Trộn & Bánh Tráng Nướng - Phùng Khoang,9.0,27500.0,18
+Le Castella Hà Nội - Taste Of Taiwan - Vũ Hữu,6.9,134000.0,71
+"Chops - Hops, Wheat & Meat - Phạm Huy Thông",7.9,250000.0,13
+Sushidokoro Yutaka - Ẩm Thực Nhật Bản,7.4,187500.0,19
+Trixie Cafe & Lounge,6.5,60000.0,20
+Gia Huy - Chè Khúc Bạch Online - Hoàng Mai,6.2,17000.0,14
+Bánh Tráng Cô Bông - Hàng Bè,9.8,25000.0,26
+"Quẩy Đùi Gà, Trà sữa - Ngọc Linh - Nguyễn Tuân",9.4,30000.0,170
+Chè Xưa - Chè Sầu & Ăn Vặt,7.0,35000.0,20
+Cô Vân - Chè & Bánh Trôi Tàu - Đê Tô Hoàng,6.4,12500.0,10
+Fresh Garden Bakery - Bạch Mai,7.2,35000.0,10
+Kim Phan's Food - Đồ Ăn Hàn Quốc Online,7.7,42500.0,65
+Trà Sữa Tocotoco - Nguyễn Văn Tố,6.4,33500.0,20
+Sữa Chua Trân Châu Cô Thỏ - KTT Trường Múa Việt Nam,9.6,30000.0,15
+Cơm Gà Bảo Lan - Nguyễn Trãi,8.5,32500.0,13
+BenTo Chile - Cơm Gà Xối Mắm Tỏi & Xối Mỡ - Nguyễn Trãi,7.5,55000.0,15
+Chân Gà Chiên Mắm & Lẩu Thái - Thụy Khuê,7.2,150000.0,29
+The Alley - Trà Sữa Đài Loan - Hàng Bài,2.5,55500.0,236
+Starbucks Coffee - The Garden,7.9,60000.0,31
+Quán Xưa - Món Xưa,6.4,247500.0,14
+Gà rán và Mì Ý - Jollibee - Nguyễn Trãi,6.5,29500.0,73
+Bánh Mì One One - Chùa Láng,7.0,20000.0,27
+Bún Hải Sản Mẹ Su - 15 Trương Công Giai,8.3,92500.0,50
+Ding Tea - Lê Đại Hành,6.9,40000.0,73
+The Pizza Company - AEON Mall Long Biên,6.9,200000.0,25
+Bamboo Dimsum - AEON Mall Long Biên,7.4,60000.0,29
+Cháo Sườn Huyền Anh - Đồng Xuân,7.2,35000.0,208
+Bò Nướng Tảng - Nguyên Hồng,7.9,200000.0,40
+Nam An - Cơm Gà Hội An,9.4,28000.0,60
+Bún Đậu Mắm Tôm - Ngõ Trạm,5.9,35000.0,24
+Hiệu Lực - Bánh Mì Chảo - Bà Triệu,6.7,40000.0,99
+Hoa An Viên - Lê Đức Thọ,7.0,240000.0,13
+Yên Béo - Đồ Nướng & Ăn Vặt,7.4,56000.0,55
+Ốc Ngao Xào - Mai Động,7.3,75000.0,11
+Bánh Mì Bami Bread - Nguyễn Trãi,7.2,20000.0,47
+Ngan Ngon - Trần Huy Liệu,6.0,115000.0,13
+"Nhà Sàn 141 - Lẩu, Đồ Nướng & Nhậu",9.2,200000.0,45
+Tào Phớ Nghĩa Tân,7.0,16000.0,168
+Trà Sữa Tocotoco - Trần Duy Hưng,5.1,37500.0,19
+Bún Hải Sản 2S - Văn Quán,5.6,42500.0,45
+Bún Ngan Nhàn - Ngõ Trung Yên,6.3,40000.0,138
+Dolpan Sam - Nướng Bàn Đá Hàn Quốc - Artemis Tower,7.0,250000.0,49
+Cowboy Jack's Saloon American Dining - Trần Thái Tông,8.0,225000.0,104
+Nem Lụi Homemade - Shop Online,5.7,77500.0,10
+ThaiExpress - Vincom Bà Triệu,7.0,50000.0,62
+Phong Phú - Sữa Ngô Nguyên Chất & Bánh Bao,7.7,15000.0,19
+Burger King - AEON Mall Long Biên,6.5,40000.0,36
+Ajisai Udon - AEON Mall Long Biên,6.7,200000.0,22
+Ngon Phố - AEON Mall Long Biên,6.6,150000.0,71
+Koishi BBQ - Lẩu Nướng Không Khói,7.0,225000.0,16
+Bà Yên - Bún Miến Ngan,7.2,62500.0,15
+Cơm Ngon Giang Béo - Lê Đức Thọ,9.8,37500.0,103
+Kem Swensen's - AEON Mall Long Biên,7.4,125000.0,56
+Trà Sữa Tocotoco - Nguyễn Văn Cừ,6.9,52500.0,39
+HM 187 - Gà Rán & Khoai Lắc - Hồng Mai,5.4,37500.0,20
+Bánh Tôm Hồ Tây,5.8,106000.0,156
+Chick Garden - Chè Ngon & Súp Ngọt - Định Công,6.5,45000.0,85
+Vịt 34 - Nguyễn Cơ Thạch,6.9,125000.0,11
+Q-Tea - Đồ Hàn Online,7.1,35000.0,121
+Chè Malaysia Bà Tuyết,6.7,24000.0,27
+Phúc Long Trần Đại Nghĩa,4.3,52500.0,12
+Highlands Coffee - VTV Inside,7.9,60000.0,11
+"Đông Dương Fruits - Trái Cây Gọt Sẵn, Sinh Tố & Nước Ép",8.8,65000.0,20
+Mì Quảng Bà Vị - Đặc Sản Đà Nẵng,7.1,32500.0,17
+Cơm Văn Phòng 86 - Shop Online,8.4,32500.0,13
+Bún Riêu - Đội Cấn,7.3,30000.0,11
+Gà Rán KFC - Nguyễn Văn Cừ,6.2,80000.0,19
+Trà Sữa Tocotoco - Big C Thăng Long,4.2,37500.0,10
+Miến Lươn Sành Phố Cổ,7.2,35000.0,15
+Cheong Hak Gol - Korean Traditional Restaurant,9.6,294000.0,71
+Trung Nguyên Legend Coffee - Hai Bà Trưng,7.3,75000.0,11
+Hải Sư - Cơm Niêu Singapore,7.0,42500.0,182
+S&L's Diner - Ẩm Thực Mỹ - Bảo Khánh,8.1,160000.0,45
+Lòng Rán Phố Hàng Gà,6.7,48000.0,23
+Cơm Thố Anh Nguyễn - Dương Khuê,7.1,110000.0,40
+Chân Gà Nướng Phố Lý Văn Phức,6.6,42500.0,116
+Mì Trộn & Xiên Que Shop & Go - Ô Quan Chưởng,7.8,17500.0,12
+Cố Cung - Nhà Hàng Hàn Quốc,6.6,175000.0,11
+Trà Sữa Tocotoco - Lê Đại Hành,5.6,37500.0,26
+Trà Chanh - Nhà Thờ,6.9,35000.0,16
+Chicken Bros - Quán Gà Rán Hàn Quốc,7.3,175000.0,13
+Chả Cá Lã Vọng - Nguyễn Trường Tộ,6.0,70000.0,14
+Khang - Ẩm Thực Nhật Bản,7.8,267500.0,46
+Bà Thìn - Xôi Chè & Bánh Trôi,7.0,24000.0,37
+Cháo Sườn - Cửa Bắc,7.3,17500.0,13
+Bánh Tôm Hàng Bồ,7.1,40000.0,106
+Huyền Anh - Bún Bò Huế - Trương Định,7.1,43000.0,21
+Mì Vằn Thắn - Đinh Liệt,7.4,30000.0,142
+Con Ong Vàng - Chuối Chiên Sài Gòn & Xôi Dừa,6.6,15000.0,10
+Bún Chả Nem - Cửa Đông,6.5,25000.0,29
+Cháo Sườn Cô Là,7.2,20000.0,49
+TukTuk Thai Bistro - Triệu Việt Vương,7.4,300000.0,14
+Yutang - Trà Sữa & Mỳ Đài Loan - Big C Thăng Long,8.8,300000.0,44
+Bánh Cốm Nguyên Ninh - Hàng Than,6.1,35000.0,28
+Xôi Nóng Anh Tùng - Mai Hắc Đế,5.5,25000.0,24
+Paris Baguette - Hoàng Đạo Thúy,7.5,200000.0,143
+Starbucks Coffee - Nhà Thờ,7.6,105000.0,62
+"Tuyến Ốc - Khoai, Ốc & Cút Lộn Xào Me",7.7,100000.0,10
+Isushi Triệu Việt Vương - Nhà Hàng Buffet Nhật Bản,8.4,135000.0,131
+Paris Gâteaux - Bánh Ngọt & Trà Sữa - Hai Bà Trưng,7.3,225000.0,70
+Thanh Vân - Bánh Cuốn & Bún Thang,6.4,21500.0,93
+Khoai Bao - Khoai Lang Nướng Mật Đà Lạt - Ven Hồ Hạ Đình,6.5,57500.0,53
+Cơm Sườn Đào Duy Từ - Giảng Võ,6.8,50000.0,94
+Bánh Mì Thịt Xiên 93,7.3,13500.0,24
+Bánh Mì Mr Xoay - Hàm Long,6.9,32500.0,151
+Miến Lươn Đồng - Thái Hà,6.7,37500.0,85
+Bún Ốc Cô Huệ - Nguyễn Siêu,7.2,35000.0,54
+Cô Quỳnh - Lẩu & Nướng,8.3,90000.0,74
+Beard Papa's - Nguyễn Du,7.0,60000.0,12
+Mirai - Sushi & Sake,7.7,300000.0,27
+Vuvuzela Beer Club - Thái Hà,9.8,325000.0,21
+Sumo BBQ - Nhà Hàng Thịt Nướng Nhật Bản - Huỳnh Thúc Kháng,7.3,348500.0,153
+San Tokbokki - Ẩm Thực Hàn Quốc - Phạm Ngọc Thạch,7.0,85000.0,25
+Cơm Tấm Ali,7.4,30000.0,81
+Chen Hà Nội,7.1,217500.0,46
+Nhà Hàng 123 - Kim Mã,6.7,42500.0,113
+Nem Chua Rán 267 - Ngọc Lâm,6.9,42500.0,44
+Gyu-Kaku Japanese BBQ - AEON Mall Long Biên,6.6,300000.0,44
+King BBQ - Vua Nướng Hàn Quốc - AEON Mall Long Biên,6.8,300000.0,27
+Bánh Cuốn Đức Hạnh,8.7,40000.0,16
+Bánh Cuốn & Bún Chả Gia An - Trần Đăng Ninh,6.6,32500.0,11
+Salavi - Bánh Mì Nướng Muối Ớt - Hàng Giầy,7.6,15000.0,45
+Chè Ngon Truyền Thống - Tô Hiệu,6.6,19000.0,12
+Chè Ngon Hà Nội - 297 Tô Hiệu,6.9,17500.0,57
+Hà Dũng - Lẩu Ếch,7.1,100000.0,18
+Vua Chả Cá - Nguyễn Thị Định,6.4,200000.0,33
+Mạnh Đức - Phở & Cơm Văn Phòng,8.0,35000.0,10
+Bún Chả Cầu Đen - Hà Đông,6.6,37500.0,22
+NemZone - Nem Nướng Ngon Lạ,7.7,177000.0,14
+Cutisun Restaurant - Bò Bít Tết,7.2,275000.0,41
+Bánh Cuốn & Bún Chả Hoàng Long,6.7,24000.0,16
+Cờ-Rếp - Lò Đúc,6.9,47500.0,11
+Korea Box 1998 - Ẩm Thực Hàn Quốc,7.5,60000.0,11
+Lẩu Hơi Trường An,8.2,325000.0,10
+Cơm Gà Bà Yến - Khâm Thiên,8.5,37000.0,18
+Pizza Hut - Tôn Đức Thắng,7.2,140000.0,173
+Koi Food,7.3,275000.0,14
+Quán Chè Cát Thành - Cát Linh,6.8,24000.0,49
+Wa Japanese Cuisine,7.8,187500.0,12
+Mít Quán - Nguyễn Trãi,5.8,22500.0,34
+Chè Sài Gòn Tuyết Nhung - Nhổn,7.3,17500.0,14
+Ngọc Diệp - Bánh Mì Sốt Vang & Tào Phớ,9.8,29000.0,11
+Gà 36 - Nguyễn Tuân,6.4,135000.0,10
+Bánh Su Kem Singapore Chewy Junior - Xã Đàn,7.2,132500.0,160
+Kun Steak - Bít Tết & Vang Tươi,7.6,185000.0,12
+Phương Hoa - Bún Thái Hải Sản Tươi Sống & Cơm Văn Phòng - Tập Thể Thành Công,7.3,125000.0,59
+Cường Bạc - Bánh Cuốn Cao Bằng,6.2,45000.0,26
+Isushi Thái Hà - Nhà Hàng Buffet Nhật Bản,9.1,350000.0,86
+Bánh Mì Nguyên Sinh - Lý Quốc Sư,4.4,24000.0,44
+Bún Bò Huế O Xuân - Tuệ Tĩnh,6.8,50000.0,30
+Cộng Cà Phê - Lý Thường Kiệt,7.4,50000.0,25
+Highlands Coffee - Cột Cờ,7.4,37000.0,114
+Cà Te Quán - Bò Nhúng Me,7.2,250000.0,61
+ZPizza - Xuân Diệu,7.8,122500.0,46
+Seoul Soul - Gà Rán Hàn Quốc,3.1,125000.0,75
+Bánh Gối Oanh Oanh - Đê La Thành,7.1,17000.0,23
+Bún Cá Quả Trộn Thái Bình,7.9,40000.0,16
+BBQ Chicken - Giảng Võ,6.9,85000.0,20
+Lẩu Đức Trọc - Phó Đức Chính,6.8,89500.0,45
+Lão Ngư Chả Cá,7.4,80000.0,70
+Mai Châu - Ẩm Thực Hòa Bình,7.5,160000.0,13
+Vân Nhi - Food & Dessert - Lý Thường Kiệt,7.5,36000.0,34
+Bánh Khoai & Bánh Chuối - Hàng Điếu,6.6,8000.0,15
+Bún Dọc Mùng - Bát Đàn,6.8,40000.0,52
+Hải Sản Cua Bay,7.7,150000.0,26
+Khải Dung - Bún Sườn Mọc,5.6,40000.0,15
+"Baked Magic - Trà, Sinh Tố & Bánh Kem Nướng",7.5,35000.0,21
+Phở Bò Lý Béo - Hàng Nón,7.3,35000.0,15
+Yang - Buffet Lẩu Bò Mỹ - Láng Hạ,5.6,125000.0,39
+An Cựu - Bún Bò Huế - Đội Cấn,7.7,37500.0,15
+Quán Chè Bà Lan Gia Truyền,6.8,25000.0,17
+Cốm - Xuân Thủy,7.4,17500.0,10
+Cháo Ếch Singapore - Láng Hạ,6.9,55000.0,18
+Gateaux De Mia - Tiệm Bánh Mia - Shop Online,7.5,300000.0,55
+Aaron9 - Grill & Smoked Turkey - Đào Duy Từ,8.7,164000.0,16
+Cộng Cà Phê - Tràng Tiền,7.5,62500.0,109
+Cộng Cà Phê - Hàng Điếu,7.1,35000.0,21
+Hạnh - Hải Sản Tươi Sống,3.7,75000.0,10
+Phở Cường - Hàng Muối,6.6,29000.0,33
+King BBQ - Vua Nướng Hàn Quốc - Hàng Tre,6.4,300000.0,18
