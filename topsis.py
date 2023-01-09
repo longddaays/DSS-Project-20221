@@ -1,11 +1,14 @@
 import pandas as pd
 import os
 import sys
+import csv
+myData = []
+hashDishCategory = {} # category, listRestaurant
+listAllCategory = []
 
 
 
 def main():
-    
     
     if len(sys.argv) != 5:
         print("ERROR : Nhập thiếu tham số")
@@ -117,7 +120,93 @@ def topsis_pipy(temp_dataset, dataset, nCol, weights, impact):
     
     dataset.to_csv(sys.argv[4], index=False)
     
+def main2():
+    while True:
+        string = input("Enter a positive number: ")
+        print(string)
+        if string in "nướng":
+            print("true")
+        else:
+            print("false")
+        if string == "out":
+            break
+
+def readData():
+    with open('data_test.csv',encoding="utf8") as file:
+        myFile = csv.reader(file)
+        for row in myFile:
+            myData.append(row)
+    myData.pop(0)
+
+def readListCategory():
+    for dataRestaurant in myData:
+        listCategory = dataRestaurant[7].split(", ")
+        # print(str(listCategory))
+        for category in listCategory:
+            if category.lower() in hashDishCategory.keys():
+                listRestaurant = hashDishCategory[category.lower()]
+                listRestaurant.append(dataRestaurant[0])
+            else:
+                listRestaurant = [dataRestaurant[0]]
+                hashDishCategory[category.lower()] = listRestaurant
+                listAllCategory.append(category.lower())
+
+def startRecommend():
+     while True:
+        categoryInput = input("Nhập tên món ăn bạn muốn tìm : (Hoặc ""end"")")
+        
+        if categoryInput.lower() == "end":
+            return
+        categoryInput = categoryInput.lower()
+        listRecRestaurant = None
+
+        if categoryInput in listAllCategory:
+            listRecRestaurant = processRecommend(hashDishCategory[categoryInput])
+        
+        if (listRecRestaurant == None):
+            #lay danh sach category goi y
+            listRecCategory = []
+            for category in listAllCategory:
+                if categoryInput in category:
+                    listRecCategory.append(category)
+
+            if len(listRecCategory) == 0:
+                print("Tên món không phù hợp!!")
+
+            print("Gợi ý tên món : " + str(listRecCategory))
+            isContinue = input("Bạn có muốn nhập lại tên món theo gợi ý? (Yes / No)")
+
+            if (isContinue.lower() != "yes"):
+                listIdRestaurant = []
+                for category in listRecCategory:
+                    # isDuplicated = False
+                    # for id in listIdRestaurant:
+                    #     if id == hashDishCategory[category]:
+                    #         isDuplicated = True
+                    # if isDuplicated:
+                    #     continue
+                    listIdRestaurant += hashDishCategory[category]
+                listIdRestaurant = list(set(listIdRestaurant))
+                listRecRestaurant = processRecommend(listIdRestaurant)
+
+        if listRecRestaurant != None:
+            print("Các quán ăn phù hợp là : ")
+            for idRes in listRecRestaurant:
+                restaurantInfo = myData[int(idRes) - 1]
+                print("Tên quán : " + restaurantInfo[1] + ", Địa chỉ : " + restaurantInfo[5])
 
 
+#input : list id restaurant (string)
+#output : list id restaurant (string)
+def processRecommend(listIdRestaurant):
+    #code here
+    #end code here
+    return listIdRestaurant
+
+
+def main3():
+    readData()
+    readListCategory()
+    startRecommend()
 if __name__ == "__main__":
-    main()
+    main3()
