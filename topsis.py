@@ -29,7 +29,7 @@ def main():
 
         
         if nCol < 3:
-            print("ERROR : Dữ liệu có ít hơn 3 cột")
+            print("ERROR : Dữ liệu có ít hơn 3 cột thuộc tính")
             exit(1)
 
         
@@ -53,7 +53,7 @@ def main():
         
         if nCol != len(weights)+1 or nCol != len(impact)+1:
             print(
-                "ERROR : Số trọng số, số dấu thuộc tính và số cột khác nhau")
+                "ERROR : Số trọng số, số dấu thuộc tính và số cột thuộc tính khác nhau")
             exit(1)
 
         if (".csv" != (os.path.splitext(sys.argv[4]))[1]):
