@@ -4,6 +4,7 @@
 - bs4
 - selenium
 - pandas, numpy
+- googlemaps
 # Run code
 - Topsis ranking algorithm: python topsis.py topsis_data.csv "1,1,1,1" "+,+,+,+" result.csv 
 - "1,1,1,1" is the configurable array of weights
