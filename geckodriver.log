@@ -1,24 +1,16 @@
-1673409948612	geckodriver	INFO	Listening on 127.0.0.1:64719
-1673409951610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hlong\\AppData\\Local\\Temp\\rust_mozprofile75KsY3"
-1673409953593	Marionette	INFO	Marionette enabled
-1673409953603	Marionette	INFO	Listening on port 64736
-Read port: 64736
-WebDriver BiDi listening on ws://127.0.0.1:64720
-1673409954093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlong\\AppData\\Local\\Temp\\rust_mozprofile75KsY3\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://127.0.0.1:64720/devtools/browser/888847d3-b704-4380-9ff8-ec5494c3ec81
-console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
-console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1675995027352	geckodriver	INFO	Listening on 127.0.0.1:50469
+1675995030413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50470" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hlong\\AppData\\Local\\Temp\\rust_mozprofileiQjcMz"
+1675995035516	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675995035527	Marionette	INFO	Listening on port 50483
+Read port: 50483
+WebDriver BiDi listening on ws://127.0.0.1:50470
+1675995037296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlong\\AppData\\Local\\Temp\\rust_mozprofileiQjcMz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50470/devtools/browser/a0d238ec-4abb-4aae-b4a3-6d022d339148
 JavaScript warning: https://id.foody.vn/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://id.foody.vn."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://id.foody.vn."
 JavaScript warning: https://id.foody.vn/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
-JavaScript warning: https://www.foody.vn/ha-noi/sushi-garden, line 1166: unreachable code after return statement
-1673410000267	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
-JavaScript warning: https://www.foody.vn/ha-noi/cuon-n-roll-restaurant-giang-vo, line 1166: unreachable code after return statement
-1673410012420	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
-JavaScript warning: https://www.foody.vn/ha-noi/mi-gia-tien-dat, line 1149: unreachable code after return statement
-1673410032368	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
-JavaScript warning: https://www.foody.vn/ha-noi/pho-ga-95-doan-ke-thien, line 1166: unreachable code after return statement
-1673410081147	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 Shutting down due to socket process crash.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
