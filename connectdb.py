@@ -2,10 +2,9 @@
 # pip install PyMySQL
 
 from sqlalchemy import create_engine
-
 import pymysql
-
 import pandas as pd
+import mysql.connector
 
 dbName = "test"
 
@@ -21,6 +20,15 @@ def read_frame_from_db(tableName):
 
 #example : csvName = "data/dss_data_prep.csv", tableName = "dss_data_prep"
 def csvToDb(csvName, tableName):
+    mydb = mysql.connector.connect(
+        host="localhost",
+        user="root",
+        passwd="",
+        database=dbName
+    )
+    mycursor = mydb.cursor()
+    mycursor.execute("drop table if exists " + tableName)
+
     df = pd.read_csv(csvName)
     dataFrame = pd.DataFrame(data=df)           
     sqlEngine = create_engine('mysql+pymysql://root:@127.0.0.1/' + dbName, pool_recycle=3600)
@@ -28,5 +36,5 @@ def csvToDb(csvName, tableName):
     frame = dataFrame.to_sql(tableName, dbConnection, if_exists='fail')
     dbConnection.close()
 
-# csvToDb("data/dss_data_prep.csv", "dss_data_prep")
+csvToDb("data/dss_data_prep.csv", "dss_data_prep")
 # read_frame_from_db("dss_data_prep")
